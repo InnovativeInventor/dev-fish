@@ -1,3 +1,3 @@
-function dev-fish -d "My package"
-  # Package entry-point
+function dev-fish
+  echo "Version: 0.0.2"
 end
