@@ -10,10 +10,10 @@
 <br/>
 
 ## Requirements
-- Omf/Fish
-- NeoVim/MacVim
-- Exa
-- fd
+- [Omf](https://github.com/oh-my-fish/oh-my-fish)/[Fish](https://github.com/fish-shell/fish-shell)
+- [NeoVim](https://github.com/neovim/neovim)/[MacVim](https://github.com/macvim-dev/macvim)
+- [Exa](https://github.com/ogham/exa)
+- [fd](https://github.com/sharkdp/fd)
 
 ## Install
 Once this is in one of your omf package repositories, run: 
