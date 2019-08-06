@@ -9,8 +9,14 @@
 
 <br/>
 
+## Requirements
+- Omf/Fish
+- NeoVim/MacVim
+- Exa
+- fd
 
 ## Install
+Once this is in one of your omf package repositories, run: 
 
 ```fish
 $ omf install dev-fish
@@ -18,11 +24,7 @@ $ omf install dev-fish
 
 
 ## Usage
-
-```fish
-$ dev-fish
-```
-
+Use your command line just like normal (and revel in the better `ls`, `find`, and vim)
 
 # License
 
