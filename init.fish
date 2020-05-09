@@ -4,4 +4,4 @@
 # * $package       package name
 # * $path          package path
 # * $dependencies  package dependencies
-echo "$package up"
+#echo "$package up"
