@@ -1,4 +1,4 @@
-function cit
+function emacs
     if count $argv > /dev/null
         emacsclient -a "" $argv
     else

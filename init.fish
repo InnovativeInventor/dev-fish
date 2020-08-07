@@ -4,5 +4,6 @@
 # * $package       package name
 # * $path          package path
 # * $dependencies  package dependencies
-#echo "$package up"
-set -l dependencies bobthefish
+
+echo "$package up"
+# set -l dependencies bobthefish
