@@ -1,7 +1,7 @@
 function
     switch (uname)
         case Linux 
-            nvim vim $argv
+            nvim $argv
         case Darwin
             mvim --servername vim -v $argv
         case '*'
