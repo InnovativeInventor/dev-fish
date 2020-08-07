@@ -14,6 +14,7 @@
 - [NeoVim](https://github.com/neovim/neovim)/[MacVim](https://github.com/macvim-dev/macvim)
 - [Exa](https://github.com/ogham/exa)
 - [fd](https://github.com/sharkdp/fd)
+- gotop
 
 ## Install
 Once this is in one of your omf package repositories, run: 
@@ -22,7 +23,6 @@ Once this is in one of your omf package repositories, run:
 $ omf repositories add https://github.com/InnovativeInventor/fish-personal master
 $ omf install dev-fish
 ```
-
 
 ## Usage
 Use your command line just like normal (and revel in the better `ls`, `find`, and vim)
