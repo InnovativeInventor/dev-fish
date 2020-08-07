@@ -5,3 +5,4 @@
 # * $path          package path
 # * $dependencies  package dependencies
 #echo "$package up"
+set -l dependencies bobthefish
