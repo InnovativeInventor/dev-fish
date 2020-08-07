@@ -2,6 +2,6 @@ function cit
     if count $argv > /dev/null
         emacsclient -a "" $argv
     else
-        emacsclient -c
+	emacsclient -a "" -c
     end
 end
