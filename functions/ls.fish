@@ -1,3 +1,7 @@
 function ls
-  exa --git $argv
+    if count $argv > /dev/null
+    	exa --git $argv
+    else
+    	exa --git
+    end
 end
