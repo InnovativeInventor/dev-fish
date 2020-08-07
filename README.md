@@ -19,6 +19,7 @@
 Once this is in one of your omf package repositories, run: 
 
 ```fish
+$ omf repositories add https://github.com/InnovativeInventor/fish-personal master
 $ omf install dev-fish
 ```
 
