@@ -14,7 +14,7 @@
 - [NeoVim](https://github.com/neovim/neovim)/[MacVim](https://github.com/macvim-dev/macvim)
 - [Exa](https://github.com/ogham/exa)
 - [fd](https://github.com/sharkdp/fd)
-- gotop
+- [glances](https://github.com/nicolargo/glances)
 
 ## Install
 Once this is in one of your omf package repositories, run: 
@@ -25,7 +25,13 @@ $ omf install dev-fish
 ```
 
 ## Usage
-Use your command line just like normal (and revel in the better `ls`, `find`, and vim)
+Use your command line just like normal (and revel in the better `ls`, `find`, `top`, and vim)
+
+## Aliasing Philosophy
+The reason why this project overwrites/overaliases common linux utilities like `top` or `ls` is so that there is never a time when you type in `top` into a machine and *nothing* pops up.
+
+It's hard to break habits, so getting used to using something like `glances` or `exa` and accidentally trying to run those programs on a different machine can get annoying. 
+By overwriting/overaliasing common linux utilities, you only have one command to memorize and it'll never fail you.
 
 # License
 
