@@ -1,3 +1,3 @@
 function top
-    gotop $argv
+    glances $argv
 end
